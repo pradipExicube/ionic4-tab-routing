@@ -1,5 +1,7 @@
 {
   "name": "ionic4TabRouting",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
